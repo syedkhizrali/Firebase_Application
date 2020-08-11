@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Application</string>
+    <string name="login">Already a user? Log In</string>
+    <string name="signup">Not a user yet? Sign Up</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="camera">Tap on the camera to choose profile picture</string>
+    <string name="enter_display_name">Enter Display Name</string>
+    <string name="save">Save</string>
+</resources>
